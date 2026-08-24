@@ -21,7 +21,9 @@
 - 🌐 **Mern Stack Development**
   
 - 🤖 **AI/ML**
-  
+
+- 🚀 **Solving LeetCode consistently**
+ 
 - 🌍 **Open Source Projects**
 
 <br clear="right"/>
@@ -60,6 +62,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Databases**
 
