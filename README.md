@@ -116,7 +116,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://activity-graph-chi.vercel.app/graph?username=ch-ushasree&theme=tokyo-night" />
+<img width="100%" src="https://activity-graph-chi.vercel.app/graph?username=ch-ushasree&theme=tokyo-night&days=90" />
 
 </div>
 
